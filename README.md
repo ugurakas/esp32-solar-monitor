@@ -1,7 +1,7 @@
 # ESP32 Solar Monitor
 
 <p align="center">
-  <img src="images/pcb.png" width="850">
+  <img src="ESP32-based solar energy monitoring system with custom PCB, GSM connectivity, MQTT, and cloud integration..png" width="850">
 </p>
 
 An open-source ESP32-based solar energy monitoring system designed for remote photovoltaic installations. The project includes custom PCB design, embedded firmware, GSM connectivity, and cloud-ready telemetry.
